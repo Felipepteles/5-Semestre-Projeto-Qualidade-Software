@@ -29,10 +29,6 @@ Parte central do fluxo de compra. Se o carrinho falhar, a plataforma não gera r
 playwright codegen https://local-eats-unisenac.vercel.app/
 ```
 
-### 🔗 Link para o código gerado
-
-👉 https://github.com/seu-repositorio/tests/codegen_login.py
-
 ### 🧠 Observações
 
 - O Codegen ajudou a iniciar rapidamente o teste  
